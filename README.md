@@ -16,7 +16,9 @@
 <p align="center">
   <a href="https://developerravi.com/">Website</a> •
   <a href="https://profiles.wordpress.org/ravikhadka/">WordPress Profile</a> •
-  <a href="https://github.com/meravi">GitHub</a>
+  <a href="https://github.com/meravi">GitHub</a> •
+    <a href="https://buymeacoffee.com/developerravi">☕ Buy Me a Coffee</a>
+
 </p>
 
 ---
