@@ -1,43 +1,50 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=21759B&center=true&vCenter=true&width=800&lines=Hi+I'm+Ravi+Khadka;WordPress+Contributor;Plugin+Developer;WooCommerce+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=21759B&center=true&vCenter=true&width=800&lines=Hi+I'm+Ravi+Khadka;WordPress+Contributor;Open+Source+Builder;Improving+WordPress+Ecosystem" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Ravi Khadka</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="90" alt="WordPress Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="80" alt="WordPress Logo" />
 </p>
 
 <p align="center">
-  💻 WordPress Developer • 🔌 Plugin Developer • 🚀 Open Source Contributor • 🇳🇵 Nepal
+  📝 WordPress Contributor • 🔌 Plugin Developer • 🌍 Open Source Collaborator • 🇳🇵 Nepal
 </p>
 
 <p align="center">
   <a href="https://developerravi.com/">Website</a> •
   <a href="https://profiles.wordpress.org/ravikhadka/">WordPress Profile</a> •
   <a href="https://github.com/meravi">GitHub</a> •
-    <a href="https://buymeacoffee.com/developerravi">☕ Buy Me a Coffee</a>
-
+  <a href="https://buymeacoffee.com/developerravi">☕ Support</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧭 About Me
 
-I am a WordPress developer and open-source contributor focused on improving the WordPress ecosystem.
+I’m a WordPress contributor focused on improving the **user experience, accessibility, and performance** of the WordPress ecosystem.
 
-My work focuses on:
+I actively contribute across multiple teams including:
+- Core & Performance
+- Documentation (focused on major releases like WordPress 7.0)
+- Plugins and ecosystem tools
 
-- WordPress Core contributions
-- WooCommerce plugin development
-- Accessibility improvements
-- Performance improvements
-- Open source collaboration
+I enjoy identifying gaps, creating actionable improvements, and collaborating in open source environments.
 
 ---
 
-## 🏅 WordPress.org Contribution Badges
+## 🚀 What I’m Working On
+
+- 📝 Improving WordPress documentation for major releases (WordPress 7.0)
+- 🔍 Identifying and fixing UX inconsistencies in core and plugins
+- ♿ Enhancing accessibility across WordPress features
+- ⚡ Contributing to performance-related improvements
+
+---
+
+## 🏅 WordPress.org Contributions
 
 <p align="center">
   <a href="https://profiles.wordpress.org/ravikhadka/">
@@ -48,73 +55,55 @@ My work focuses on:
 </p>
 
 <p align="center">
-  Meta Contributor • Pattern Author • Photo Contributor • Plugin Developer • Translation Contributor • Translation Editor • WordCamp Speaker
+  Meta • Core • Performance • Plugins • Patterns • Photos • Translations • WordCamp Speaker
 </p>
 
 ---
 
-## 🚀 WordPress Contributions
+## 📌 Selected Contributions
 
-### WordPress Core
+### 🧱 WordPress Core
+- https://github.com/WordPress/wordpress-develop/pull/10996  
+- https://core.trac.wordpress.org/ticket/64674  
 
-- PR: https://github.com/WordPress/wordpress-develop/pull/10996
-- Trac Ticket: https://core.trac.wordpress.org/ticket/64674
+### 👥 BuddyPress
+- https://github.com/buddypress/buddypress/pull/440  
+- https://github.com/buddypress/buddypress/pull/439  
+- https://buddypress.trac.wordpress.org/ticket/9331  
 
-### BuddyPress
+### 🔐 Secure Custom Fields
+- https://github.com/WordPress/secure-custom-fields/pull/383  
+- https://github.com/WordPress/secure-custom-fields/pull/382  
+- https://github.com/WordPress/secure-custom-fields/issues/381  
 
-- PR https://github.com/buddypress/buddypress/pull/440 #440 — Blogs: Respect custom alt text when using site icon avatars
-- PR https://github.com/buddypress/buddypress/pull/439 #439 — Pass post ID to `the_title` filter
-- Trac Ticket https://buddypress.trac.wordpress.org/ticket/9331 #9331 — Blogs: `bp_get_blog_avatar()` ignores custom alt text when using site icon avatars
-
-Repository:
-https://github.com/buddypress/buddypress
-
-### Secure Custom Fields
-
-- PR https://github.com/WordPress/secure-custom-fields/pull/383 #383 — Select/Checkbox `save_custom/save_options` triggers warnings for JSON-only or unidentified fields
-- PR  https://github.com/WordPress/secure-custom-fields/pull/382#382 — Harden radio `save_other_choice` lookup for JSON fields
-- Issue https://github.com/WordPress/secure-custom-fields/issues/381 #381 — Radio `save_other_choice` triggers warnings for JSON-only or unidentified fields
-
-Repository:
-https://github.com/WordPress/secure-custom-fields
-
-### Performance Team
-
-- https://github.com/WordPress/performance/issues/879
+### ⚡ Performance Team
+- https://github.com/WordPress/performance/issues/879  
 
 ---
 
-## 🔌 WordPress Plugins
+## 🔌 Plugins I’ve Built
 
-### Delivery Date Time Picker for WooCommerce
+### 📦 Delivery Date Time Picker for WooCommerce  
+Allows customers to select delivery date and time during checkout.  
+👉 https://wordpress.org/plugins/delivery-date-time-picker-for-woocommerce/
 
-Allows customers to select delivery date and time during WooCommerce checkout.
-
-Plugin Page:
-https://wordpress.org/plugins/delivery-date-time-picker-for-woocommerce/
-
-### Altify AI – Auto ALT Text Generator
-
-Automatically generates ALT text for images using AI to improve accessibility and SEO.
-
-Plugin Page:
-https://wordpress.org/plugins/altify-ai-auto-alt-text-generator/
+### 🤖 Altify AI – Auto ALT Text Generator  
+Automatically generates ALT text to improve accessibility and SEO.  
+👉 https://wordpress.org/plugins/altify-ai-auto-alt-text-generator/
 
 ---
 
 ## 🛠 Tech Stack
 
-- WordPress
+- WordPress Core & Gutenberg
 - WooCommerce
-- PHP
-- JavaScript
+- PHP, JavaScript
 - REST API
-- Git
-- GitHub
+- Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meravi&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meravi&layout=compact)
@@ -127,19 +116,17 @@ https://wordpress.org/plugins/altify-ai-auto-alt-text-generator/
 
 ---
 
-## 👀 Profile Visitors
+## 🎯 2026 Focus
 
-![Visitor Count](https://komarev.com/ghpvc/?username=meravi)
-
----
-
-## 🎯 2026 Goals
-
-- Become a regular WordPress Core contributor
-- Build impactful plugins for the WordPress ecosystem
-- Improve accessibility and performance in WordPress projects
-- Collaborate with companies supporting open source contributors
+- Become a consistent WordPress Core contributor  
+- Lead documentation improvements for major releases  
+- Build tools that improve accessibility and usability  
+- Contribute regularly across multiple WordPress teams  
 
 ---
 
-⭐ Always happy to collaborate with the WordPress community.
+## 🤝 Let’s Collaborate
+
+I’m always open to collaborating on WordPress, open source, and ecosystem improvements.
+
+---
