@@ -24,23 +24,31 @@
 
 ## 🧭 About Me
 
-I’m a WordPress contributor focused on improving the **user experience, accessibility, and performance** of the WordPress ecosystem.
+I’m a WordPress contributor focused on improving the **user experience, documentation, accessibility, and performance** of the WordPress ecosystem.
 
 I actively contribute across multiple teams including:
 - Core & Performance
 - Documentation (focused on major releases like WordPress 7.0)
 - Plugins and ecosystem tools
 
-I enjoy identifying gaps, creating actionable improvements, and collaborating in open source environments.
+I enjoy identifying gaps, proposing solutions, and creating actionable improvements that benefit millions of WordPress users.
 
 ---
 
 ## 🚀 What I’m Working On
 
 - 📝 Improving WordPress documentation for major releases (WordPress 7.0)
-- 🔍 Identifying and fixing UX inconsistencies in core and plugins
+- 🔍 Identifying UX inconsistencies in core and plugins
 - ♿ Enhancing accessibility across WordPress features
 - ⚡ Contributing to performance-related improvements
+
+---
+
+## 📝 Documentation Contributions
+
+- Creating structured issues for WordPress documentation improvements
+- Updating outdated content and screenshots
+- Focusing on clarity, usability, and accuracy for end users
 
 ---
 
@@ -113,6 +121,15 @@ Automatically generates ALT text to improve accessibility and SEO.
 ## 📈 Open Source Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meravi&bg_color=ffffff&color=21759b&line=21759b&point=1f6feb&area=true&hide_border=true)
+
+---
+
+## ❤️ Support My Work
+
+If you find my WordPress contributions helpful, consider supporting my open source work:
+
+👉 https://buymeacoffee.com/developerravi  
+👉 https://github.com/sponsors/meravi *(once approved)*
 
 ---
 
